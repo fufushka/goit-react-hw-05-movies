@@ -1,0 +1,8 @@
+.moviesItem {
+  margin-bottom: 5px;
+}
+.movieLink {
+  color: black;
+  text-decoration: underline;
+  font-size: 20px;
+}

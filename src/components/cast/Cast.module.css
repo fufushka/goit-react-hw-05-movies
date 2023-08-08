@@ -1,0 +1,12 @@
+.castList {
+  padding: 10px;
+  gap: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.castItem {
+  width: calc((100% - 3 * 20px) / 4);
+}
+.memberImage {
+  width: 100%;
+}

@@ -1,0 +1,8 @@
+.card {
+  background-color: #f2ead3;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.author {
+  font-size: 30px;
+  font-weight: 700;
+}
