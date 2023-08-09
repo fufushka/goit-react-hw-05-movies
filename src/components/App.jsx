@@ -4,8 +4,8 @@ import HomePage from 'Pages/HomePage/HomePage';
 import Layout from 'layouts/Layout';
 import MoviePage from 'Pages/MoviesPage/MoviePage';
 import MovieDetails from '../Pages/MovieDetails/MovieDetails';
-import Cast from './Cast/Cast';
 import Reviews from 'components/Reviews/Reviews';
+import Cast from './Cast/Cast';
 export const App = () => {
   return (
     <Routes>
