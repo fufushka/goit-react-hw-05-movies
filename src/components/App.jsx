@@ -3,8 +3,8 @@ import { Route, Routes } from 'react-router-dom';
 import HomePage from 'Pages/HomePage/HomePage';
 import Layout from 'layouts/Layout';
 import MoviePage from 'Pages/MoviesPage/MoviePage';
-import MovieDetails from './MovieDetails/MovieDetails';
-import Cast from './cast/Cast';
+import MovieDetails from '../Pages/MovieDetails/MovieDetails';
+import Cast from './Cast/Cast';
 import Reviews from 'components/Reviews/Reviews';
 export const App = () => {
   return (
